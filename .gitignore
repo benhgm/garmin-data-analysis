@@ -1,0 +1,12 @@
+# Ignore data files
+data/
+*.FIT
+*.fit
+
+# Ignore data files in the data directory
+data/*.csv
+data/*.xlsx
+data/*.json
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
